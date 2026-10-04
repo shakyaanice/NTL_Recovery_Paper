@@ -1,4 +1,4 @@
-// Harris County boundary must already exist as 'geometry'
+// Harris County boundary must already exist as 'geometry' or in Assets.
 
 // VIIRS monthly nighttime lights
 var viirs = ee.ImageCollection('NOAA/VIIRS/DNB/MONTHLY_V1/VCMSLCFG')
